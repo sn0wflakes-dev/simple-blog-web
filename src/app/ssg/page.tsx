@@ -3,7 +3,7 @@ import { ArticleLayout } from '@/components/blog/article-layout';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: 'SSG Article | RenderFlow Blog',
+    title: 'SSG Article | Sn0wflakes Blog',
     description: 'An article rendered using Static Site Generation (SSG).',
 };
 

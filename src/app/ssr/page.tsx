@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
-    title: 'SSR Article | RenderFlow Blog',
+    title: 'SSR Article | Sn0wflakes Blog',
     description: 'An article rendered using Server-Side Rendering (SSR).',
 };
 

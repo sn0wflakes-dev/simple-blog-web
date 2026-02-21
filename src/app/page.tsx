@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center text-center">
       <h1 className="text-5xl md:text-6xl font-bold font-headline mb-4">
-        Welcome to RenderFlow Blog
+        Welcome to Sn0wflakes Blog
       </h1>
       <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mb-12">
         Explore the power of Next.js by seeing different page rendering
