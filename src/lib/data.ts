@@ -7,7 +7,7 @@ export interface Article {
 }
 
 export async function getArticle(): Promise<Article> {
-  const response = await fetch('http://localhost:9080/api/blog/4d752c51-68a3-4c6c-a49a-77bde537039a');
+  const response = await fetch('http://localhost:9080/api/blog/e221d08c-965f-4b91-951d-08a11c681890');
   const jsonResponse = await response.json();
 
   const apiData = jsonResponse.data;
